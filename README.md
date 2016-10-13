@@ -1,2 +1,2 @@
 # hello-world
-Lots of words with some words.
+Lots of words with cool words.
